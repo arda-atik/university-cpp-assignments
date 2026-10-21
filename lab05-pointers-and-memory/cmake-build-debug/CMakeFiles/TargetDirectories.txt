@@ -1,3 +1,0 @@
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/cmake-build-debug/CMakeFiles/lecture5.dir
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
