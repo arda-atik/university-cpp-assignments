@@ -16,4 +16,4 @@ This repository contains a collection of modular C++ programming assignments, sy
 
 * **Language:** C++ (C++20 Standard)
 * **Build System:** CMake & Ninja
-* **IDE:** JetBrains CLion
+* **IDE:** JetBrains CLion 
