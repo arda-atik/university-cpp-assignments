@@ -1,2 +1,7 @@
+# Proje kaynak kodlarını kesin olarak C++ yap
 *.cpp linguist-language=C++
 *.h linguist-language=C++
+
+# Derleme çıktılarını ve geçici dosyaları dil analizinden tamamen hariç tut
+*.exe linguist-vendored
+cmake-build-debug/** linguist-vendored
