@@ -1,7 +1,9 @@
-# Proje kaynak kodlarını kesin olarak C++ yap
-*.cpp linguist-language=C++
-*.h linguist-language=C++
+* text=auto
 
-# Derleme çıktılarını ve geçici dosyaları dil analizinden tamamen hariç tut
-*.exe linguist-vendored
-cmake-build-debug/** linguist-vendored
+# Alt klasörler de dahil tüm cpp ve h dosyalarını C++ yap
+**/*.cpp linguist-language=C++
+**/*.h linguist-language=C++
+
+# Tüm alt klasörlerdeki build çıktılarını tamamen yok say
+**/cmake-build-debug/** linguist-vendored
+**/*.exe linguist-vendored
