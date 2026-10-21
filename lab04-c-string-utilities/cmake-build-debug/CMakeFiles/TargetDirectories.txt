@@ -1,3 +1,0 @@
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab04-c-string-utilities/cmake-build-debug/CMakeFiles/lecture2.dir
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab04-c-string-utilities/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion/ProjectsC++/fnspe-cpp-labs/lab04-c-string-utilities/cmake-build-debug/CMakeFiles/rebuild_cache.dir
