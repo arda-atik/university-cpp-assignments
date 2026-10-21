@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/CLion/ProjectsC++/untitled/cmake-build-debug",
-  "command": "\"D:\\CLion\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\untitled.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\untitled.dir\\main.cpp.obj -c D:\\CLion\\ProjectsC++\\untitled\\main.cpp",
-  "file": "D:/CLion/ProjectsC++/untitled/main.cpp",
-  "output": "D:/CLion/ProjectsC++/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
-}
-]
