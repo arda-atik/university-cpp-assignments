@@ -49,7 +49,7 @@ int main() {
     char s1[N] = {'h', 'e', 'l', 'l', 'o', '\0'}; //zero terminated string
     char s2[N] = "Ahoj"; //no need to append trailing zero
     char name[N];
-    char num[10] = "2026"; // Farkli bir test degeri
+    char num[10] = "2026";
 
     cout << s1 << endl;
     cout << s2 << endl;
