@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/cmake-build-debug",
+  "command": "\"D:\\CLion\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\lecture5.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\lecture5.dir\\main.cpp.obj -c D:\\CLion\\ProjectsC++\\fnspe-cpp-labs\\lab05-pointers-and-memory\\main.cpp",
+  "file": "D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/main.cpp",
+  "output": "D:/CLion/ProjectsC++/fnspe-cpp-labs/lab05-pointers-and-memory/cmake-build-debug/CMakeFiles/lecture5.dir/main.cpp.obj"
+}
+]

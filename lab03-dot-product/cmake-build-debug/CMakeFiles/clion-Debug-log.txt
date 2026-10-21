@@ -1,0 +1,14 @@
+"D:\CLion\CLion 2026.2.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2026.2.3.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\CLion\ProjectsC++\fnspe-cpp-labs\lab03-dot-product -B D:\CLion\ProjectsC++\fnspe-cpp-labs\lab03-dot-product\cmake-build-debug
+CMake Error: Could not find cmake module file: CMakeDetermineProductCompiler.cmake
+CMake Error: Could not find cmake module file: D:/CLion/ProjectsC++/fnspe-cpp-labs/lab03-dot-product/cmake-build-debug/CMakeFiles/4.3.1/CMakeProductCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Product_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_Product_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeProductInformation.cmake
+CMake Error: CMAKE_Product_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
