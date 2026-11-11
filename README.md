@@ -12,9 +12,4 @@ This repository contains a collection of modular C++ programming assignments, sy
 | [`lab04-c-string-utilities`](./lab04-c-string-utilities) | Low-level C-style strings, custom `strlen`, ASCII character case conversion (`toUpper`), and integer parsing (`str2int`). | C-Style Strings, Null-Terminator Logic, Function Overloading, ASCII Manipulation |
 | [`lab05-pointers-and-memory`](./lab05-pointers-and-memory) | Memory addressing, pointer dereferencing, evaluation of call-by-value vs. call-by-pointer parameter passing, dynamic memory allocation (`new[]`/`delete[]`), and structure manipulation. | Pointers (`*`, `&`), Memory Inspection, Parameter Passing Semantics, Dynamic Arrays, Structs |
 | [`lab06-eratosthenes-sieve`](./lab06-eratosthenes-sieve) | Implementation of the Sieve of Eratosthenes algorithm for finding prime numbers smaller than N using CLI arguments and dynamic arrays. | Sieve of Eratosthenes, Dynamic Memory Allocation, CLI Arguments (`argc`/`argv`), Modular Programming |
-
-## 🛠️ Tech Stack & Environment
-
-- **Language:** C++ (C++20 Standard)
-- **Build System:** CMake & Ninja
-- **IDE:** JetBrains CLion
+| [`lab07-stack-class`](./lab07-stack-class) | Object-Oriented Programming (OOP) implementation of a dynamic LIFO Stack data structure using C++ classes, member initializer lists, and memory
